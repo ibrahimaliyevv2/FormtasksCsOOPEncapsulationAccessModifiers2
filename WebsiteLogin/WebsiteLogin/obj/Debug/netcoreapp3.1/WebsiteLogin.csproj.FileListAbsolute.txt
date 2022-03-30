@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\bin\Debug\netcoreapp3.1\WebsiteLogin.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers2\WebsiteLogin\WebsiteLogin\obj\Debug\netcoreapp3.1\WebsiteLogin.genruntimeconfig.cache
