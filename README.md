@@ -29,3 +29,18 @@ istifadeciden yeniden username-ni daxil etmesi teleb olunmalidir. Eyni qaydada d
 yeniden password-u daxil etmesi teleb olunmalidir. Eger her sey duzgundurse console-da IsSuperAdmin ve Section deyerleri qeyd olunur ve admin datasi yaranir.
 En sonda adminin butun datalarini geriye qaytaran
 bir method-u cagiraraq ekranda Adminin datalarini yazdirirsiz ve application bitir.
+
+
+Task-2:
+Human class (Bu abstract classs-dir.)
+-Name
+-Surname
+-Introduce ()
+
+Student: Human
+-GoupNo
+
+Employee: Human
+-Position
+
+
