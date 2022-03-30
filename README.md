@@ -9,7 +9,7 @@ Ashagidaki 2 classi yaradirsiz.
                Password
 
 
-```Admin class:
+Admin class:
                IsSuperAdmin (boolean type)
                Section (adminin web saytda idare etdiyi hisse)
 
